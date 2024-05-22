@@ -1,0 +1,27 @@
+
+cst_element7_anim.png
+size: 418,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 76
+  size: 124, 262
+  orig: 124, 262
+  offset: 0, 0
+  index: -1
+shine
+  rotate: true
+  xy: 2, 2
+  size: 72, 245
+  orig: 72, 245
+  offset: 0, 0
+  index: -1
+star_glow
+  rotate: false
+  xy: 266, 50
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

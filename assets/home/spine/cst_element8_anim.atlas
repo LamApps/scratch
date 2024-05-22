@@ -1,0 +1,27 @@
+
+cst_element8_anim.png
+size: 467,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+map
+  rotate: true
+  xy: 2, 7
+  size: 219, 216
+  orig: 219, 216
+  offset: 0, 0
+  index: -1
+shine
+  rotate: true
+  xy: 220, 2
+  size: 72, 245
+  orig: 72, 245
+  offset: 0, 0
+  index: -1
+star_glow
+  rotate: false
+  xy: 220, 76
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

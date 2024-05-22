@@ -1,0 +1,21 @@
+<font>
+	<info face="golden_number" size="80" />
+	<common lineHeight="80" scaleW="310" scaleH="269" pages="1" />
+	<pages>
+		<page id="0" file="golden_number.png" />
+	</pages>
+	<chars count="10">
+		<char id="48" x="162" y="0" width="76" height="89" xoffset="0" yoffset="-9" xadvance="77" /><!-- 0 -->
+		<char id="49" x="235" y="90" width="48" height="87" xoffset="0" yoffset="-8" xadvance="49" /><!-- 1 -->
+		<char id="50" x="157" y="180" width="76" height="88" xoffset="0" yoffset="-9" xadvance="77" /><!-- 2 -->
+		<char id="51" x="0" y="88" width="79" height="88" xoffset="0" yoffset="-8" xadvance="80" /><!-- 3 -->
+		<char id="52" x="0" y="0" width="83" height="87" xoffset="0" yoffset="-8" xadvance="84" /><!-- 4 -->
+		<char id="53" x="0" y="177" width="78" height="88" xoffset="0" yoffset="-8" xadvance="79" /><!-- 5 -->
+		<char id="54" x="79" y="177" width="77" height="89" xoffset="0" yoffset="-9" xadvance="78" /><!-- 6 -->
+		<char id="55" x="234" y="180" width="75" height="87" xoffset="0" yoffset="-8" xadvance="76" /><!-- 7 -->
+		<char id="56" x="157" y="90" width="77" height="89" xoffset="0" yoffset="-9" xadvance="78" /><!-- 8 -->
+		<char id="57" x="84" y="0" width="77" height="89" xoffset="0" yoffset="-9" xadvance="78" /><!-- 9 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

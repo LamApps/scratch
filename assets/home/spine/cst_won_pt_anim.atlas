@@ -1,0 +1,20 @@
+
+cst_won_pt_anim.png
+size: 725,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shine
+  rotate: false
+  xy: 651, 2
+  size: 72, 245
+  orig: 72, 245
+  offset: 0, 0
+  index: -1
+won_pt
+  rotate: false
+  xy: 2, 35
+  size: 647, 212
+  orig: 647, 212
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+cst_logo_pt_anim.png
+size: 848,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game_logo
+  rotate: false
+  xy: 2, 2
+  size: 445, 160
+  orig: 445, 160
+  offset: 0, 0
+  index: -1
+shine
+  rotate: true
+  xy: 449, 90
+  size: 72, 245
+  orig: 72, 245
+  offset: 0, 0
+  index: -1
+star_glow
+  rotate: false
+  xy: 696, 12
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

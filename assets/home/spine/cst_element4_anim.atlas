@@ -1,0 +1,34 @@
+
+cst_element4_anim.png
+size: 297,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guitar
+  rotate: true
+  xy: 2, 2
+  size: 239, 269
+  orig: 239, 269
+  offset: 0, 0
+  index: -1
+not1
+  rotate: false
+  xy: 273, 188
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+not2
+  rotate: false
+  xy: 273, 213
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+not3
+  rotate: false
+  xy: 273, 158
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1

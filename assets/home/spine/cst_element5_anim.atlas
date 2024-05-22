@@ -1,0 +1,97 @@
+
+cst_element5_anim.png
+size: 506,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_leaf
+  rotate: true
+  xy: 223, 56
+  size: 101, 149
+  orig: 101, 149
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 223, 159
+  size: 103, 168
+  orig: 103, 168
+  offset: 0, 0
+  index: -1
+branch
+  rotate: false
+  xy: 215, 2
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+branch_frant
+  rotate: true
+  xy: 2, 87
+  size: 175, 219
+  orig: 175, 219
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 339, 13
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+eye_close1
+  rotate: true
+  xy: 374, 118
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+eye_close14
+  rotate: false
+  xy: 317, 33
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+eye_close2
+  rotate: true
+  xy: 374, 138
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+eye_close3
+  rotate: false
+  xy: 317, 13
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+lower_beak
+  rotate: false
+  xy: 374, 26
+  size: 117, 89
+  orig: 117, 89
+  offset: 0, 0
+  index: -1
+tail_faithers
+  rotate: true
+  xy: 2, 3
+  size: 82, 106
+  orig: 82, 106
+  offset: 0, 0
+  index: -1
+upper_beak
+  rotate: true
+  xy: 393, 117
+  size: 145, 111
+  orig: 145, 111
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 110, 5
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1

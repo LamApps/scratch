@@ -1,0 +1,27 @@
+
+cst_logo1_en_anim.png
+size: 728,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shine
+  rotate: true
+  xy: 2, 2
+  size: 72, 245
+  orig: 72, 245
+  offset: 0, 0
+  index: -1
+star_glow
+  rotate: false
+  xy: 576, 6
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+title-mobile
+  rotate: false
+  xy: 2, 76
+  size: 572, 80
+  orig: 572, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+
+cst_bg_anim.png
+size: 396,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shine
+  rotate: true
+  xy: 2, 79
+  size: 70, 243
+  orig: 72, 245
+  offset: 1, 1
+  index: -1
+star_glow
+  rotate: false
+  xy: 247, 2
+  size: 147, 147
+  orig: 150, 150
+  offset: 2, 2
+  index: -1
+
+cst_bg_anim2.png
+size: 961,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+map_globe
+  rotate: false
+  xy: 2, 2
+  size: 957, 952
+  orig: 966, 960
+  offset: 4, 4
+  index: -1

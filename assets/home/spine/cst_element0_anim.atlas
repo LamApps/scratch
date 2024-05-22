@@ -1,0 +1,26 @@
+
+cst_element0_anim.png
+size: 275,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray
+  rotate: true
+  xy: 2, 2
+  size: 262, 271
+  orig: 262, 271
+  offset: 0, 0
+  index: -1
+
+cst_element0_anim2.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+statue
+  rotate: false
+  xy: 2, 2
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1

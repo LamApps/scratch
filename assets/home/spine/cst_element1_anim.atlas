@@ -1,0 +1,201 @@
+
+cst_element1_anim.png
+size: 1010,914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coffee_fx/coffee_fx_00084
+  rotate: true
+  xy: 2, 762
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00086
+  rotate: true
+  xy: 254, 762
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00088
+  rotate: true
+  xy: 506, 762
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00090
+  rotate: true
+  xy: 758, 762
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00092
+  rotate: true
+  xy: 2, 610
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00094
+  rotate: true
+  xy: 254, 610
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00096
+  rotate: true
+  xy: 506, 610
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00097
+  rotate: true
+  xy: 758, 610
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00099
+  rotate: true
+  xy: 2, 458
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00101
+  rotate: true
+  xy: 254, 458
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00103
+  rotate: true
+  xy: 506, 458
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00105
+  rotate: true
+  xy: 758, 458
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00107
+  rotate: true
+  xy: 2, 306
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00109
+  rotate: true
+  xy: 254, 306
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00110
+  rotate: true
+  xy: 506, 306
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00112
+  rotate: true
+  xy: 758, 306
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00114
+  rotate: true
+  xy: 2, 154
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00116
+  rotate: true
+  xy: 254, 154
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00118
+  rotate: true
+  xy: 506, 154
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00120
+  rotate: true
+  xy: 758, 154
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00122
+  rotate: true
+  xy: 2, 2
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00123
+  rotate: true
+  xy: 254, 2
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00125
+  rotate: true
+  xy: 506, 2
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffee_fx/coffee_fx_00127
+  rotate: true
+  xy: 758, 2
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+
+cst_element1_anim2.png
+size: 579,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coffee_fx/coffee_fx_00128
+  rotate: false
+  xy: 273, 2
+  size: 150, 250
+  orig: 150, 250
+  offset: 0, 0
+  index: -1
+coffiee
+  rotate: true
+  xy: 425, 97
+  size: 155, 152
+  orig: 155, 152
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 2, 17
+  size: 269, 235
+  orig: 269, 235
+  offset: 0, 0
+  index: -1

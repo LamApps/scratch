@@ -1,0 +1,13 @@
+
+cst_element3_anim.png
+size: 238,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+football
+  rotate: false
+  xy: 2, 2
+  size: 234, 232
+  orig: 234, 232
+  offset: 0, 0
+  index: -1
